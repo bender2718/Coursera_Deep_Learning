@@ -1,2 +1,12 @@
 # Coursera_Deep_Learning
-A place to store the materials for the Coursera Deep Learning class from Andrew Ng
+A place to store the materials for the Coursera Deep Learning class (Andrew Ng)
+
+1. Neural Networks and Deep Learning
+
+2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+
+3. Structuring Machine Learning Projects
+
+4. Convolutional Neural Networks
+
+5. Sequence Models
